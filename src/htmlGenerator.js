@@ -57,7 +57,7 @@ const generateEngineer = engineerEmployee => { return engineerEmployee.map(engin
         <ul class="list-group list-group-flush">
             <li class="list-group-item">Id: ${engineer.id}</li>
             <li class="list-group-item">Email: <a href="mailto:">${engineer.email}</a></li>
-            <li class="list-group-item">Github: ${engineer.github}</li>
+            <li class="list-group-item">Github:<a href="https://github.com/${engineer.github}">${engineer.name}</a></li>
         </ul>
     </div>
 </div>`
