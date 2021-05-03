@@ -27,4 +27,8 @@ https://user-images.githubusercontent.com/35352010/116850987-76bdc080-aba6-11eb-
 
 https://user-images.githubusercontent.com/35352010/116851063-994fd980-aba6-11eb-84fd-c63a82376eac.mov
 
+The HTML should produce something similar to the image below should you choose not to change the HTML codeblock in the 'htmlGenerator.js' file:
+
+<img width="1779" alt="Screen Shot 2021-05-03 at 12 37 58 AM" src="https://user-images.githubusercontent.com/35352010/116851813-f8621e00-aba7-11eb-912c-e58ab6a0c3c6.png">
+
 That's it you're done! 
